@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sedemstickx
 - 👀 I’m interested in software development, and gaming
-- 🌱 I’m currently learning Vue.js framework
+- 🌱 I’m currently developing a simple pos system using vue.js with inertia and laravel
 - 💞️ I’m looking to collaborate on web management systems using php/laravel and if possible vue
 - 📫 How to reach me: sedemdatsa69@gmail.com
 
